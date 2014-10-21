@@ -1,1 +1,1 @@
-Cloud code project for HTCServer. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
+Cloud code project for Test. Cloud Code Guide: https://cn.avoscloud.com/docs/cloud_code_guide.html
